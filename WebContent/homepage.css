@@ -1,0 +1,46 @@
+body {
+	background-image: url("bg.jpg");
+	background-color: #F0F0F0;
+	font-family: Sans-serif;
+	text-align: center;
+	color: white;
+}
+
+.basic-border {
+	border: 1px white solid;
+}
+
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rounded {
+	border-radius: 10px;
+}
+
+.main-div {
+	width: 800px;
+	padding: 0;
+}
+
+.main-content {
+	width: 800px;
+}
+
+.main-link {
+	float: left;
+	width: 137px;
+	padding: 17px 0 17px 0px;
+	margin: 10px;
+}
+
+.main-link:hover {
+	transition: color 0.2s ease;
+	color: #46a5f5;
+	border: 1px #46a5f5 solid;
+}
+
+a {
+	color: white;
+}
