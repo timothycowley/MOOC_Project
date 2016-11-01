@@ -12,6 +12,11 @@ This is something we would really like to see happen, but we are far too busy to
 It should be noted that this was my first group CS project. I was new to both SQL and Java at the time. The code works and demonstrates reasonable competance in SQL and Java and an understanding of relational databases, but has much room for improvement. 
 
 None of the SQL tables are provided. You would need to construct these yourself. 
+
+
+### Note
+
+If you are a recruiter or hiring manager reading this as a sample of my coding ability and/or knowledge of databases, I recommend you look at the Medicare project instead. However the Medicare project uses a non-relational database (Cassandra), so this is the only work on GitHub showing my knowledge of SQL and relational databases.  
  
 
 
